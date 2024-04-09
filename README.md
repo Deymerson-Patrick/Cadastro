@@ -1,0 +1,1 @@
+Objetivo do trabalho é realizar o cadastro das informações dos usuários na API e também consultar essas mesmas informações. Caso deseje visualizar o código funcional, pode acessar o seguinte link: https://replit.com/@PkPatrick/ReactCrud23.
