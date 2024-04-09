@@ -1,0 +1,1 @@
+Caso queira uma visualização do código funcional pode acessar o link: https://replit.com/@PkPatrick/ReactCrud23
